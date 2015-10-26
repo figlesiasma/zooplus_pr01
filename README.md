@@ -1,2 +1,6 @@
-# zooplus_pr01
-Proyecto1 Zooplus
+# zooplus
+Proyecto 1 DAW
+CONSULTAS E INSERT sobre BD
+19/10/2015 a 23/10/2015
+
+FELIPE Y RAÚL
